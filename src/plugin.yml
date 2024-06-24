@@ -1,8 +1,8 @@
-name: ${project.name}
-version: ${project.version}
-description: ${project.description}
+name: DiceFurniture
+version: 3.9.1
+description: FurnitureLib Addon, provide a bunch of preset models
 author: Ste3et_C0st
-website: ${project.url}
+website: https://dicecraft.de/furniture
 depend: [FurnitureLib]
 main: de.Ste3et_C0st.Furniture.Main.main
 api-version: 1.13
